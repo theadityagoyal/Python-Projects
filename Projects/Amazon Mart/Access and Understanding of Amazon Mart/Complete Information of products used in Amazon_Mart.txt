@@ -1,0 +1,42 @@
+                 HERE , THE COMPLETE DESCRIPTION OF PRODUCTS WITH THIER PRICES AND TAX ON THE PRODUCTS!!!!
+
+
+                                                                           #KIDS SECTION    
+1.Babysoap            Rs.   49
+2.Babycream         Rs.   69
+3.Babycarekit        Rs.  189
+4.Babydiapers        Rs.   39
+5.Babyoil               Rs.   59
+6.Babyblankets      Rs.  169
+
+                                                                     #TAX ON KIDS SECTION
+Total kids product price =10%
+*************************************************************************************************
+
+                                                                            #MEN SECTION  
+
+1.MenFace                  Rs. 189
+2.Menshavingkit         Rs. 119
+3.Wallet                      Rs.  99
+4.Trimmers                 Rs. 229
+5.Belts                        Rs.   69  
+6.Sunglasses               Rs. 129
+
+                                                                    #TAX ON MEN SECTION
+
+Total Men product price =25%
+***************************************************************************************************
+
+                                                                        #WOMEN  SECTION
+
+1.Makeupkit               Rs. 249
+2.Womenskincare       Rs. 199
+3.Womenpurse            Rs. 149
+4.Womenperfumes      Rs.  99
+5.Haircarekit              Rs. 139
+6.Cosmetic kit             Rs. 399
+
+                                                                  #TAX ON WOMEN SECTION
+Total Women product price =15%
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+

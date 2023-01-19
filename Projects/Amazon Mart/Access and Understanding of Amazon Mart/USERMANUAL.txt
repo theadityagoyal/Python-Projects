@@ -1,0 +1,59 @@
+                                                                                                     USER MANUAL
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                      THE FOLLOWING INSTRUCTIONS TO BE FOLLOWED FOR PROPER EXECUCTION OF PROGRAM 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                                                     INSTRUCTIONS :
+                                                                                                     ------------------------
+
+
+
+1.YOU MUST ENSURE THAT FOR RUNNING OF, PYTHON CODE (PYTHON -3.8.5)
+    IS INSTALLED IN YOUR COMPUTER SYSTEM.
+
+
+2.BEFORE RUNNING THIS PROGRAM OPEN EVIDENCE FOLDER WHICH ARE AVAILABLE
+    IN IMAGES AND VIDEO FORMAT......
+
+
+    (1)IN IMAGES -PATH (Amazon Mart\Evidence OF Running project\In Images format)
+
+        TO SEE THE STEPS SEQUENTIALLY  OF PROGRAM USE FOLLWING STEP       
+       RIGHT CLICK>SORT BY>SELECT DATE MODIFIED AND ASCENDING ORDER.........
+
+     (2)IN VIDEO -PATH (Amazon Mart\Evidence OF Running project\In video format)
+                DOUBLE CLICK
+
+
+
+
+3.THIS APPLICATION IS USER LOGIN BASED SO WITHOUT USERNAME AND PASSWORD YOU
+     CAN'T ACCESS ,SO
+                               THE USERNAME IS "Amazon"  AND THE PASSWORD IS "12345"
+
+
+4.WHILE EXTRACTING THE RAR FILE KEEP EVERYTHING IN SAME FOLDER AS DONE
+     IN THIS ZIP FILE ELSE IT MAY SHOW ERROR.
+
+
+5.YOU CAN CHECK THE BILLS OF YOUR CUSTOMER IN YOUR RESPECTIVE BILL FOLDER
+    THAT IS PRESENT IN PATH(Amazon Mart\Amazon_Mart APPLICATION\Amazon_Mart\bills)
+
+6. IF YOU WANT TO RUN CODE ,NOT APPLICATION YOU CAN  RUN IT BY DOUBLE CLICK 
+    ON Amazon_Mart_code.py
+    AND LOGIN  INTO AND 
+    THAT CODE BILL IS SAVED IN 
+    PATH(Amazon Mart\bills) 
+
+7. DO NOT TRY TO RENAME THE     "bills"     FOLDER 
+     
+
+
+7.IF YOU FACE ANY ISSUE REGARDING THIS PLEASE MENTION YOUR PROBLEM BY GMAIL
+    " goyallala02@GMAIL.COM "
+
+                                                                         
+                                   ______________________ """  THANK YOU  """ _____________________
+
+******************************************************************************************************************************

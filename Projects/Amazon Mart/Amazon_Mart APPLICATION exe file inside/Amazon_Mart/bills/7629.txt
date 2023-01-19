@@ -1,0 +1,44 @@
+		     WELCOME TO AMAZON MART
+
+ Wed Nov  4 09:59:50 2020
+
+ BILL NUMBER   : 7629
+ CUSTUMER NAME : Ansu
+ PHONE NUMBER  : 7895632410 
+ =============================================================
+ PRODUCTS			OUANTITY			PRICE
+ =============================================================
+ Baby Soap			1			49
+ Babycare Kit			8			1512
+ Men Facewash			5			945
+ Haircare kit			9			1251
+ ------------------------------------------------------------
+ Kids tax					        Rs: 156.1
+ Men tax					        Rs: 236.25
+ Women tax					        Rs: 187.65
+ ------------------------------------------------------------
+
+ Total Bill					 Rs: 4337.0
+
+		  Thank You For Shopping With Us
+
+			 HAVE A GREAT DAY 
+
+Contact Details :
+
+9521255282
+aashirwadk7@gmail.com
+
+8319602957
+goyallala02@gmail.com
+
+7987740520
+amangupta09032001@gmail.com
+
+amzonmart@gmail.com
+support@Digital_India
+
+
+For online order:
+Check our Website:
+amazon.com (24x7) 

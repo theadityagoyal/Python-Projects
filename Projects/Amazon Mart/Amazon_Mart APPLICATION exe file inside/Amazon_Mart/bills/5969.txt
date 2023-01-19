@@ -1,0 +1,57 @@
+		     WELCOME TO AMAZON MART
+
+ Tue Nov  3 16:44:18 2020
+
+ BILL NUMBER   : 5969
+ CUSTUMER NAME : Aman Gupta
+ PHONE NUMBER  : 7987740520 
+ =============================================================
+ PRODUCTS			OUANTITY			PRICE
+ =============================================================
+ Baby Soap			1			49
+ Baby Cream			11			759
+ Babycare Kit			1			189
+ Baby diaper			11			429
+ Baby oil			1			59
+ Baby Blankets			1			169
+ Men Facewash			1			189
+ Shaving kit			1			119
+ Wallet			7			693
+ Trimmers			11			2519
+ Belts			1			69
+ Sunglasses			1			129
+ Makeup kit			1111			276639
+ Skincare kit			111			22089
+ Purse			1			149
+ Haircare kit			111			15429
+ Cosmetic Kit			1			399
+ ------------------------------------------------------------
+ Kids tax					        Rs: 165.4
+ Men tax					        Rs: 929.5
+ Women tax					        Rs: 47205.75
+ ------------------------------------------------------------
+
+ Total Bill					 Rs: 368377.65
+
+		  Thank You For Shopping With Us
+
+			 HAVE A GREAT DAY 
+
+Contact Details :
+
+9521255282
+aashirwadk7@gmail.com
+
+8319602957
+goyallala02@gmail.com
+
+7987740520
+amangupta09032001@gmail.com
+
+amzonmart@gmail.com
+support@Digital_India
+
+
+For online order:
+Check our Website:
+amazon.com (24x7) 

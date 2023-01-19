@@ -1,0 +1,10 @@
+                                  Application of Amazon Mart
+********************************************************
+
+
+OPEN                       --- Amazon Mart
+OPEN                       --- Amazon_Mart APPLICATION
+OPEN                       ---Amazon_Mart
+DOUBLE CLICK      ---Amazon_Mart.exe
+
+*********************************************************
