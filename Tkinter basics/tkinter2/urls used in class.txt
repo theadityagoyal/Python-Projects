@@ -1,0 +1,6 @@
+Students may visit the following urls for  more theory on the topics mentioned next to the links respectively.
+
+1. https://effbot.org/tkinterbook/variable.htm for variable classes
+2.https://effbot.org/tkinterbook/photoimage.htm for photoimage
+3.http://effbot.org/tkinterbook/text.htm for named index
+4.https://www.tutorialspoint.com/python/tk_text.htm   for add tag
